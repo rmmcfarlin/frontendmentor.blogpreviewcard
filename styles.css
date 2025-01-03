@@ -37,7 +37,7 @@ p, h1 {
     background-color: white;
     padding: 8px 5px 5px 0px;
     margin: -0.5px;
-    font-family: figtree;
+    font-family: "Figtree", sans-serif;
 }
 
 .badge p {
@@ -82,6 +82,6 @@ img + p {
     font-weight: bold;
 }
 @font-face {
-    font-family: Figtree;
+    font-family: "Figtree";
     src: url(Figtree-VariableFont_wght.ttf);
 }
